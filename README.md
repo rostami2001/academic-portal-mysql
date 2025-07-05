@@ -29,11 +29,11 @@ This repository contains a complete database system for a university student por
    - Transactional operations
 
 ## Key Features
-✅ Student portal with course registration  
-✅ Professor interface for grade management  
-✅ Automated food reservation system  
-✅ Exam scheduling with seat management  
-✅ Comprehensive reporting via SQL views  
+ Student portal with course registration  
+ Professor interface for grade management  
+ Automated food reservation system  
+ Exam scheduling with seat management  
+ Comprehensive reporting via SQL views  
 
 ## Technologies Used
 - **Database**: MySQL 8.0
